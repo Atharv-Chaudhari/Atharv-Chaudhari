@@ -11,4 +11,4 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari) [![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev) 
   
-<img align="right" alt="GIF" src="https://github.com/Hemraj183/Hemraj183/blob/main/coding.gif" width="390" height="350" />
+<img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/ebe83577c1d40e367b7d8da71b612abe58fd3987/Profile%20Data/coding.gif" width="390" height="350" />
