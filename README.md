@@ -11,7 +11,9 @@
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari) [![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev) ![Resume](https://github.com/Atharv-Chaudhari/Resume/blob/b78acc4ce71ecb3d65c13398025ea331ffcc72e3/Atharv%20Chaudhari.pdf)
+![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari) [![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
+<a src="https://github.com/Atharv-Chaudhari/Resume/blob/b78acc4ce71ecb3d65c13398025ea331ffcc72e3/Atharv%20Chaudhari.pdf"> Resume</a>
+
   
 
   
