@@ -11,4 +11,4 @@
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari) ![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)
+![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari) [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
