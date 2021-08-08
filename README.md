@@ -9,6 +9,10 @@
 
 ### 👦 Stats:
 
+<img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c295bb183c29b10c7d21eb56a03f0b7cfb867113/machine%20learning%20gif.gif" width="390" height="350" />
+
 <div align="left">
 
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
+ 
+</div>
