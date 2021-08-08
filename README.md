@@ -17,4 +17,4 @@
 
 # Basic architecture of Data Science
 
-<img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c295bb183c29b10c7d21eb56a03f0b7cfb867113/machine%20learning%20gif.gif" width="1200" height="800" />
+<img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c295bb183c29b10c7d21eb56a03f0b7cfb867113/machine%20learning%20gif.gif" width="1200" height="600" />
