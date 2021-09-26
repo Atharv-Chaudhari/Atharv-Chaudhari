@@ -7,9 +7,9 @@
 - 👯 I’m looking to collaborate with other developers. 
 - 🥅 2021 Goals: Learn to build big projects on Machine Learning and Data Science.
 
-### 👦 Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green"/>
 
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
 
+### 👦 Stats:
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green"/>
