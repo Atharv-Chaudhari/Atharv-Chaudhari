@@ -12,6 +12,9 @@
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green)
 <div align="left">
 
-[![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
- 
+<!-- [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
+  -->
+ ![Profile View Counter](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
 </div>
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
