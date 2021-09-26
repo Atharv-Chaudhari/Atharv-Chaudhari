@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Learn to build big projects on Machine Learning and Data Science.
 
 ### 👦 Stats:
-
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true)
 <div align="left">
 
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
