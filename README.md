@@ -8,7 +8,8 @@
 - 🥅 2021 Goals: Learn to build big projects on Machine Learning and Data Science.
 
 ### 👦 Stats:
-  ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
+  ![Repository's Stats]()
   ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green)
 <div align="left">
 
