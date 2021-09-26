@@ -9,8 +9,8 @@
 
 ### 👦 Stats:
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green"/>
 </div>
 <div align="left">
 
