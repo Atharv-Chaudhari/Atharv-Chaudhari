@@ -16,4 +16,3 @@
   -->
  ![Profile View Counter](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
 </div>
-![Jokes Card](https://readme-jokes.vercel.app/api)
