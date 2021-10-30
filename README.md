@@ -15,5 +15,9 @@
 
 
 ### 👦 Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=blue-green"/>
+<a href="https://github.com/Atharv-Chaudhari">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Atharv-Chaudhari">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true&theme=light&line_height=27" alt="Atharv's github stats"/>
+</a>
