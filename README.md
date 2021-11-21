@@ -23,9 +23,7 @@
 </a>
 
 
-<p style="text-align:center;">
-  ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
-  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
-  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
-  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
-</p>
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
