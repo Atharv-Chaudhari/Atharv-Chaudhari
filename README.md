@@ -22,7 +22,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true&theme=light&line_height=27" alt="Atharv's github stats"/>
 </a>
 
+<p style="text-align:center;">
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
+</p>
