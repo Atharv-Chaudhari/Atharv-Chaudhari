@@ -18,6 +18,7 @@
 <a href="https://github.com/Atharv-Chaudhari">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=light&hide_langs_below=1" />
 </a>
+<img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/15cd2888f4bc8ae6b8f8c3898a59cd4a85dda9df/Profile%20Data/coder.jpg" width="390" height="350" />
 <a href="https://github.com/Atharv-Chaudhari">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true&theme=light&line_height=27" alt="Atharv's github stats"/>
 </a>
