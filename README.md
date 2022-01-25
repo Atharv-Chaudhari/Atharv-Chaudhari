@@ -14,6 +14,14 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Atharv-Chaudhari)](https://badges.pufler.dev)
 
 
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
+
+
+
 ### 👦 Stats:
 <div>
 <a href="https://github.com/Atharv-Chaudhari">
@@ -26,8 +34,3 @@
 <img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/Designer_Atharv.png" width="390" height="350" />
 </div>
 
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
