@@ -14,7 +14,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/Atharv-Chaudhari)](https://badges.pufler.dev)
 
 
-
+<br><br><br><br>
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
