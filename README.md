@@ -30,7 +30,7 @@
 </a>
 <a href="https://github.com/Atharv-Chaudhari">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true&theme=tokyonight&line_height=27" alt="Atharv's github stats" width="600" />
-    <img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/Designer_Atharv.png"  width="600" height="400"/>
+    <img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/Designer_Atharv.png"   height="400"/>
 </a>
 </div>
 
