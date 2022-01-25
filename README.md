@@ -26,9 +26,9 @@
 <a href="https://github.com/Atharv-Chaudhari">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Atharv-Chaudhari&show_icons=true&theme=tokyonight&line_height=27" alt="Atharv's github stats" width="600" /></a>
 <div>
-  <img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/lang.jpg" width="400" height="350" />
+  <img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/lang.jpg" height="350" />
 <a href="https://github.com/Atharv-Chaudhari">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=light&hide_langs_below=1" width="400" height="350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-Chaudhari&theme=light&hide_langs_below=1" height="350" />
 </a>
    <img align="center" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/c17b6bb2e2a8d631172b5e1a75e705b2029a0fc1/Profile%20Data/Designer_Atharv.png"   />
 </div>
