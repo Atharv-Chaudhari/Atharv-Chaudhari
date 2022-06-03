@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/ebe83577c1d40e367b7d8da71b612abe58fd3987/Profile%20Data/coding.gif" width="390" height="350" />
+<img align="right" alt="GIF" src="https://github.com/Atharv-Chaudhari/Atharv-Chaudhari/blob/ebe83577c1d40e367b7d8da71b612abe58fd3987/Profile%20Data/coding.gif" width="30" height="30" />
 
 # Hi, I'm Atharv Chaudhari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
