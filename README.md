@@ -9,10 +9,6 @@
 
 
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Atharv-Chaudhari)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/Atharv-Chaudhari)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Atharv-Chaudhari)](https://badges.pufler.dev)
-
 
 <br><br>
 ### Kaggle Stats:
