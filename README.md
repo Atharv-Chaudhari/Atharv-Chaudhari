@@ -11,13 +11,6 @@
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)
 
 <br><br>
-### Kaggle Stats:
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atharvchaudhari/discussion/light)
-
-
 
 ### 👦 Stats:
 <a href="https://github.com/Atharv-Chaudhari">
