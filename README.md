@@ -2,10 +2,10 @@
 
 # Hi, I'm Atharv Chaudhari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30">
 
-## I'm a Computer Science And Engneering student !
+## I'm a Computer Science And Engneering graduate !
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects on Machine Learning and Data Science.
+- 🥅 2023 Goals: Learn to build big projects on Data Science.
 
 
 [![profile visit](https://komarev.com/ghpvc/?username=Atharv-Chaudhari)](https://badges.pufler.dev)
